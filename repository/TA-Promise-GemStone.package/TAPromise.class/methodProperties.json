@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"example1" : "jupiter 7/24/2015 16:48",
+		"example2" : "jupiter 7/24/2015 16:49",
+		"example3" : "jupiter 7/24/2015 16:50" },
+	"instance" : {
+		"exception:" : "jupiter 7/6/2015 14:46",
+		"hasValue" : "jupiter 7/6/2015 14:42",
+		"initialize" : "jupiter 7/6/2015 14:27",
+		"value" : "jupiter 7/6/2015 14:46",
+		"value:" : "jupiter 7/6/2015 14:48" } }

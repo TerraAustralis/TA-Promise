@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Tests-Promise-GemStone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAPromiseTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

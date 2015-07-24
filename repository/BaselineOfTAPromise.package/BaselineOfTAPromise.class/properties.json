@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTAPromise",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTAPromise",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

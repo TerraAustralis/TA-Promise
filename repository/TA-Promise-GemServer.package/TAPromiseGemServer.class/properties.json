@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Promise-GemServer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAPromiseGemServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
