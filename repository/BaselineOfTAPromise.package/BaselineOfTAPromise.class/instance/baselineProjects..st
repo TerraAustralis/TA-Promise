@@ -1,4 +1,4 @@
 baselines
 baselineProjects: spec
 	self
-		projectApplicationTools: spec
+		projectGemServer: spec
