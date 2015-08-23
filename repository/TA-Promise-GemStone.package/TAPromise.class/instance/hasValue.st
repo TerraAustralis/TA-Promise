@@ -1,4 +1,3 @@
 accessing
 hasValue
-
-	^hasValue
+  ^ hasValue

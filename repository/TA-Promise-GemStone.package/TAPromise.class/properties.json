@@ -1,15 +1,17 @@
 {
 	"category" : "TA-Promise-GemStone",
 	"classinstvars" : [
-		 ],
+		"inProcess",
+		"queue" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "jupiter 7/24/2015 16:54",
+	"commentStamp" : "",
 	"instvars" : [
-		"monitor",
-		"value",
-		"hasValue",
-		"exception" ],
+		"taskValuable",
+		"taskValue",
+		"exception",
+		"id",
+		"hasValue" ],
 	"name" : "TAPromise",
 	"pools" : [
 		 ],

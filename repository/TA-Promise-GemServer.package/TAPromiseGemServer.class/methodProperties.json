@@ -1,5 +1,14 @@
 {
 	"class" : {
-		 },
+		"gemServer" : "jupiter 08/08/2015 14:20",
+		"gemServerName" : "jupiter 08/23/2015 21:08",
+		"register" : "jupiter 08/08/2015 14:20",
+		"serverClass" : "jupiter 08/08/2015 14:14",
+		"start" : "jupiter 08/23/2015 21:13",
+		"stop" : "jupiter 08/23/2015 21:12",
+		"unregister" : "jupiter 08/08/2015 14:21" },
 	"instance" : {
-		 } }
+		"basicServerOn:" : "jupiter 08/23/2015 20:46",
+		"delayTimeMs" : "jupiter 08/17/2015 14:04",
+		"initialize" : "jupiter 08/08/2015 14:16",
+		"startBasicServerOn:" : "jupiter 08/23/2015 20:46" } }

@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "TAPromiseGemServer",
+	"name" : "TAPromiseServerVM",
 	"pools" : [
 		 ],
-	"super" : "TAGemServer",
+	"super" : "Object",
 	"type" : "normal" }

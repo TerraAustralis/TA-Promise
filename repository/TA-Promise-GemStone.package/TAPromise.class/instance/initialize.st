@@ -1,7 +1,4 @@
 initialization
 initialize
-
-	super initialize.
-
-	hasValue := false.
-	monitor := Semaphore new.
+  super initialize.
+  hasValue := false
